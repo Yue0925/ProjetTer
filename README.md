@@ -10,7 +10,7 @@ Python3.7
 
 Linux or Windows10
 
-##Library dependency
+## Library dependency
 
 ### anaconda
 
@@ -39,11 +39,19 @@ conda install matplotlib
 
 ## Files
 
->DirectedGraph.py
->Lattice.py
->FuzzyMeasure.py
->test.py
->LearningData
->>EvalEntreprise.txt
->>Fromage.txt
->>LearningBreastCancer.txt
+> DirectedGraph.py
+
+> Lattice.py
+
+> FuzzyMeasure.py
+
+> test.py
+
+> LearningData
+
+>> EvalEntreprise.txt
+
+>> Fromage.txt
+
+>> LearningBreastCancer.txt
+

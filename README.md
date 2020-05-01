@@ -47,8 +47,3 @@ conda install matplotlib
 >>EvalEntreprise.txt
 >>Fromage.txt
 >>LearningBreastCancer.txt
-
-## Participants:
-
-Yue ZHANG
-Lys THAY
